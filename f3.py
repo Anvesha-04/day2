@@ -1,2 +1,2 @@
-s1='good morning'
+s1='good afternoon '
 print(s1.swapcase())
