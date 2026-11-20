@@ -1,2 +1,2 @@
-s1='good evening'
+s1='good morning'
 print(s1.split())
